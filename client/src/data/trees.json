@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Pau-Brasil",
+    "scientific_name": "Paubrasilia echinata",
+    "height": "30 metros",
+    "probability": "10",
+    "price": 1,
+    "image": "https://cdn.univicosa.com.br/img/portal/noticia/acervo/91408paubrasilCeplag.jpg"
+  },
+  {
+    "name": "Copaíba",
+    "scientific_name": "Copaifera langsdorfii",
+    "height": "15 metros",
+    "probability": "10",
+    "price": 2,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_883382-MLB31584307079_072019-O.jpg"
+  },
+  {
+    "name": "Oiti doce",
+    "scientific_name": "Licania sp",
+    "height": "12 metros",
+    "probability": "25",
+    "price": 3,
+    "image": "https://loja.paraisodasarvores.com.br/media/catalog/product/cache/1/image/720x/f605eb9fa47368b9ba054e894db89910/o/i/oiti.jpg"
+  },
+  {
+    "name": "Pau de rosas",
+    "scientific_name": "Physocalymma scaberrimum",
+    "height": "18 metros",
+    "probability": "35",
+    "price": 4,
+    "image": "https://images.tcdn.com.br/img/img_prod/650041/sementes_de_pau_de_rosas_reseda_nacional_physocalymma_scaberrimum_mundo_das_sementes_57_1_20181121180522.jpg"
+  },
+  {
+    "name": "Ingá de papagaio",
+    "scientific_name": "Inga lanceifolia",
+    "height": "8 metros",
+    "probability": "18",
+    "price": 5,
+    "image": "https://ruraltectv.com.br/wp-content/uploads/2020/06/CUTIEIRA-Joannesia-princeps-4.jpg"
+  },
+  {
+    "name": "Mão de gato",
+    "scientific_name": "Zanthoxylum pohlianum",
+    "height": "8 metros",
+    "probability": "45",
+    "price": 6,
+    "image": "https://cdn.olhares.com/client/files/foto/big/606/6062554.jpg"
+  }
+]
